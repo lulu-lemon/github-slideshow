@@ -2,4 +2,6 @@
 layout: slide
 title "Welcome to our slide!"
 --
-Use the left arrow to go back
+*This text will be italic*
+--
+_This will also be italic_
